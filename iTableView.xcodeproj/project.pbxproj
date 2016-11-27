@@ -13,6 +13,9 @@
 		607CCF9B1DE7413000190FB4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607CCF991DE7413000190FB4 /* Main.storyboard */; };
 		607CCF9D1DE7413000190FB4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607CCF9C1DE7413000190FB4 /* Assets.xcassets */; };
 		607CCFA01DE7413000190FB4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607CCF9E1DE7413000190FB4 /* LaunchScreen.storyboard */; };
+		607CCFB01DE7474100190FB4 /* taylor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 607CCFAD1DE7474100190FB4 /* taylor.jpg */; };
+		607CCFB11DE7474100190FB4 /* adele.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 607CCFAE1DE7474100190FB4 /* adele.jpg */; };
+		607CCFB21DE7474100190FB4 /* lima.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 607CCFAF1DE7474100190FB4 /* lima.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		607CCF9C1DE7413000190FB4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		607CCF9F1DE7413000190FB4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		607CCFA11DE7413000190FB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		607CCFAD1DE7474100190FB4 /* taylor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = taylor.jpg; sourceTree = "<group>"; };
+		607CCFAE1DE7474100190FB4 /* adele.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = adele.jpg; sourceTree = "<group>"; };
+		607CCFAF1DE7474100190FB4 /* lima.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lima.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 		607CCF8F1DE7413000190FB4 /* iTableView */ = {
 			isa = PBXGroup;
 			children = (
+				607CCFAD1DE7474100190FB4 /* taylor.jpg */,
+				607CCFAE1DE7474100190FB4 /* adele.jpg */,
+				607CCFAF1DE7474100190FB4 /* lima.jpg */,
 				607CCF931DE7413000190FB4 /* AppDelegate.h */,
 				607CCF941DE7413000190FB4 /* AppDelegate.m */,
 				607CCF961DE7413000190FB4 /* ViewController.h */,
@@ -137,8 +146,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				607CCFB11DE7474100190FB4 /* adele.jpg in Resources */,
+				607CCFB01DE7474100190FB4 /* taylor.jpg in Resources */,
 				607CCFA01DE7413000190FB4 /* LaunchScreen.storyboard in Resources */,
 				607CCF9D1DE7413000190FB4 /* Assets.xcassets in Resources */,
+				607CCFB21DE7474100190FB4 /* lima.jpg in Resources */,
 				607CCF9B1DE7413000190FB4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
